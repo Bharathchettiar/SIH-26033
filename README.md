@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25-11-2026
+## Reference Number:26000788
+## Name: Bharath Thirunavukkarasu
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,34 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+FarmConnect is a digital marketplace connecting farmers and FPOs directly with consumers and bulk buyers. It enables farmers to sell produce at fair prices while providing buyers with affordable agricultural products.
+
+The platform integrates logistics support and AI-based demand forecasting and route optimization to improve supply chain efficiency.
+
+Its uniqueness lies in combining direct trading, smart delivery and demand prediction in one platform.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies: HTML, CSS, JavaScript, Python, Flask, MySQL and AI/ML libraries.
+
+Methodology: Develop a web platform for farmer registration, produce listing, buyer orders and logistics coordination. Use AI to forecast demand and optimize delivery routes.
+
+Workflow: Farmer Listing → Buyer Order → AI Demand Prediction → Logistics Planning → Delivery.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The platform can be developed using affordable, open-source technologies.
+
+Challenges: Internet connectivity, digital literacy, transportation availability and maintaining accurate produce details.
+
+Solutions: Regional language support, a simple interface, FPO partnerships and local logistics providers.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+- Better prices and market access for farmers.
+- Affordable produce for consumers.
+- Reduced intermediary costs.
+- Efficient transportation and delivery.
+- Lower food wastage and improved supply chain management.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. [e-NAM – National Agriculture Market](https://www.enam.gov.in/)
+2. [NITI Aayog – Agrowave](https://www.niti.gov.in/hi/node/555)
+3. [ICAR – Indian Council of Agricultural Research](https://www.icar.gov.in/)
