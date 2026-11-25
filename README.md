@@ -39,6 +39,9 @@ Methodology: Develop a web platform for farmer registration, produce listing, bu
 
 Workflow: Farmer Listing → Buyer Order → AI Demand Prediction → Logistics Planning → Delivery.
 
+<img width="902" height="1752" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/bd08f137-0401-4fe3-82dd-06ec45c4f3c7" />
+
+
 ## Feasibility and Viability
 The platform can be developed using affordable, open-source technologies.
 
